@@ -1,0 +1,18 @@
+{
+    "name": "Oats",
+    "weather_preferences": {
+        "temperature": {
+            "min": 31.450000000000003,
+            "max": 41.45
+        },
+        "humidity": {
+            "min": 77.22,
+            "max": 97.22
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

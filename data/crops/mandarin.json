@@ -1,0 +1,18 @@
+{
+    "name": "Mandarin",
+    "weather_preferences": {
+        "temperature": {
+            "min": 34.11,
+            "max": 44.11
+        },
+        "humidity": {
+            "min": 27.97,
+            "max": 47.97
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

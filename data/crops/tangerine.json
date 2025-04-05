@@ -1,0 +1,18 @@
+{
+    "name": "Tangerine",
+    "weather_preferences": {
+        "temperature": {
+            "min": 5.720000000000001,
+            "max": 15.72
+        },
+        "humidity": {
+            "min": 57.900000000000006,
+            "max": 77.9
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

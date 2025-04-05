@@ -1,0 +1,18 @@
+{
+    "name": "Apricot",
+    "weather_preferences": {
+        "temperature": {
+            "min": 27.020000000000003,
+            "max": 37.02
+        },
+        "humidity": {
+            "min": 64.23,
+            "max": 84.23
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

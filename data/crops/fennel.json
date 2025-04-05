@@ -1,0 +1,18 @@
+{
+    "name": "Fennel",
+    "weather_preferences": {
+        "temperature": {
+            "min": 16.26,
+            "max": 26.26
+        },
+        "humidity": {
+            "min": 76.49,
+            "max": 96.49
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

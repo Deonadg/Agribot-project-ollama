@@ -1,0 +1,18 @@
+{
+    "name": "Sapodilla",
+    "weather_preferences": {
+        "temperature": {
+            "min": 8.05,
+            "max": 18.05
+        },
+        "humidity": {
+            "min": 65.27,
+            "max": 85.27
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

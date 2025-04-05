@@ -1,0 +1,18 @@
+{
+    "name": "Pistachio",
+    "weather_preferences": {
+        "temperature": {
+            "min": 15.86,
+            "max": 25.86
+        },
+        "humidity": {
+            "min": 6.66,
+            "max": 26.66
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

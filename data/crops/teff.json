@@ -1,0 +1,18 @@
+{
+    "name": "Teff",
+    "weather_preferences": {
+        "temperature": {
+            "min": 32.88,
+            "max": 42.88
+        },
+        "humidity": {
+            "min": 42.89,
+            "max": 62.89
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Cashew",
+    "weather_preferences": {
+        "temperature": {
+            "min": 18.54,
+            "max": 28.54
+        },
+        "humidity": {
+            "min": 70.65,
+            "max": 90.65
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

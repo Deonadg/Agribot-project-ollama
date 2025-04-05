@@ -1,0 +1,18 @@
+{
+    "name": "White sapote",
+    "weather_preferences": {
+        "temperature": {
+            "min": 29.380000000000003,
+            "max": 39.38
+        },
+        "humidity": {
+            "min": 13.95,
+            "max": 33.95
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

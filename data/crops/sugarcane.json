@@ -1,0 +1,18 @@
+{
+    "name": "Sugarcane",
+    "weather_preferences": {
+        "temperature": {
+            "min": 7.84,
+            "max": 17.84
+        },
+        "humidity": {
+            "min": 38.64,
+            "max": 58.64
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

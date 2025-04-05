@@ -1,0 +1,18 @@
+{
+    "name": "Karonda",
+    "weather_preferences": {
+        "temperature": {
+            "min": 21.65,
+            "max": 31.65
+        },
+        "humidity": {
+            "min": 1.1300000000000008,
+            "max": 21.130000000000003
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

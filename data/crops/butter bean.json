@@ -1,0 +1,18 @@
+{
+    "name": "Butter bean",
+    "weather_preferences": {
+        "temperature": {
+            "min": 13.68,
+            "max": 23.68
+        },
+        "humidity": {
+            "min": 20.46,
+            "max": 40.46
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

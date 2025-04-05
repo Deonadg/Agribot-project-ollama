@@ -1,0 +1,18 @@
+{
+    "name": "Cherry",
+    "weather_preferences": {
+        "temperature": {
+            "min": 28.68,
+            "max": 38.68
+        },
+        "humidity": {
+            "min": 69.69,
+            "max": 89.69
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

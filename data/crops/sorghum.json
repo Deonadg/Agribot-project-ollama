@@ -1,0 +1,18 @@
+{
+    "name": "Sorghum",
+    "weather_preferences": {
+        "temperature": {
+            "min": 17.16,
+            "max": 27.16
+        },
+        "humidity": {
+            "min": 29.990000000000002,
+            "max": 49.99
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Yam",
+    "weather_preferences": {
+        "temperature": {
+            "min": 29.83,
+            "max": 39.83
+        },
+        "humidity": {
+            "min": 22.380000000000003,
+            "max": 42.38
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Samba Rice",
+    "weather_preferences": {
+        "temperature": { "min": 22, "max": 37 },
+        "humidity": { "min": 65, "max": 90 }
+    },
+    "fertilizers": ["Farmyard Manure", "NPK Fertilizer", "Potassium Sulfate"]
+}

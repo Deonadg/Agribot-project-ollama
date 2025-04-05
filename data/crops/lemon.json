@@ -1,0 +1,18 @@
+{
+    "name": "Lemon",
+    "weather_preferences": {
+        "temperature": {
+            "min": 11.11,
+            "max": 21.11
+        },
+        "humidity": {
+            "min": 4.01,
+            "max": 24.009999999999998
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

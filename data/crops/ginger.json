@@ -1,0 +1,18 @@
+{
+    "name": "Ginger",
+    "weather_preferences": {
+        "temperature": {
+            "min": 6.76,
+            "max": 16.759999999999998
+        },
+        "humidity": {
+            "min": 33.61,
+            "max": 53.61
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

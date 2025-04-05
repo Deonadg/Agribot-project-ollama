@@ -1,0 +1,18 @@
+{
+    "name": "Mungbean",
+    "weather_preferences": {
+        "temperature": {
+            "min": 23.33,
+            "max": 33.33
+        },
+        "humidity": {
+            "min": 70.77,
+            "max": 90.77
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

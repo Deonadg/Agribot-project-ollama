@@ -1,0 +1,18 @@
+{
+    "name": "Kiwi",
+    "weather_preferences": {
+        "temperature": {
+            "min": 14.61,
+            "max": 24.61
+        },
+        "humidity": {
+            "min": 53.92,
+            "max": 73.92
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

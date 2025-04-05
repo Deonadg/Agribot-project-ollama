@@ -1,0 +1,18 @@
+{
+    "name": "Finger millet",
+    "weather_preferences": {
+        "temperature": {
+            "min": 24.04,
+            "max": 34.04
+        },
+        "humidity": {
+            "min": 9.46,
+            "max": 29.46
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

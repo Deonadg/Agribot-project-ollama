@@ -1,0 +1,18 @@
+{
+    "name": "Cauliflower",
+    "weather_preferences": {
+        "temperature": {
+            "min": 26.31,
+            "max": 36.31
+        },
+        "humidity": {
+            "min": 37.87,
+            "max": 57.87
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

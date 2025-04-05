@@ -1,0 +1,8 @@
+{
+    "name": "Rambutan",
+    "weather_preferences": {
+        "temperature": { "min": 22, "max": 35 },
+        "humidity": { "min": 70, "max": 95 }
+    },
+    "fertilizers": ["Ammonium Sulfate", "Superphosphate", "Potassium"]
+}

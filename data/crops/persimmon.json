@@ -1,0 +1,18 @@
+{
+    "name": "Persimmon",
+    "weather_preferences": {
+        "temperature": {
+            "min": 10.26,
+            "max": 20.259999999999998
+        },
+        "humidity": {
+            "min": 67.62,
+            "max": 87.62
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

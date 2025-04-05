@@ -1,0 +1,18 @@
+{
+    "name": "Lychee",
+    "weather_preferences": {
+        "temperature": {
+            "min": 14.829999999999998,
+            "max": 24.83
+        },
+        "humidity": {
+            "min": 62.540000000000006,
+            "max": 82.54
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

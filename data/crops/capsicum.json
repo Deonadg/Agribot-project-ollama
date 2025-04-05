@@ -1,0 +1,18 @@
+{
+    "name": "Capsicum",
+    "weather_preferences": {
+        "temperature": {
+            "min": 28.18,
+            "max": 38.18
+        },
+        "humidity": {
+            "min": 81.61,
+            "max": 100
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

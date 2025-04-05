@@ -1,0 +1,8 @@
+{
+    "name": "Cactus Pear",
+    "weather_preferences": {
+        "temperature": { "min": 18, "max": 38 },
+        "humidity": { "min": 20, "max": 50 }
+    },
+    "fertilizers": ["Organic Manure", "Superphosphate", "Potassium Chloride"]
+}

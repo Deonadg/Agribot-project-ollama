@@ -1,0 +1,18 @@
+{
+    "name": "Pigeon pea",
+    "weather_preferences": {
+        "temperature": {
+            "min": 14.670000000000002,
+            "max": 24.67
+        },
+        "humidity": {
+            "min": 74.9,
+            "max": 94.9
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

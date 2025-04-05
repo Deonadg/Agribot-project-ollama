@@ -1,0 +1,18 @@
+{
+    "name": "Blackgram",
+    "weather_preferences": {
+        "temperature": {
+            "min": 27.340000000000003,
+            "max": 37.34
+        },
+        "humidity": {
+            "min": 56.61,
+            "max": 76.61
+        }
+    },
+    "fertilizers": [
+        "DAP",
+        "MOP",
+        "Gypsum"
+    ]
+}

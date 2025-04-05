@@ -1,0 +1,18 @@
+{
+    "name": "Pearl millet",
+    "weather_preferences": {
+        "temperature": {
+            "min": 28.53,
+            "max": 38.53
+        },
+        "humidity": {
+            "min": 36.81,
+            "max": 56.81
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

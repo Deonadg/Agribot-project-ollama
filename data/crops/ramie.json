@@ -1,0 +1,18 @@
+{
+    "name": "Ramie",
+    "weather_preferences": {
+        "temperature": {
+            "min": 7.51,
+            "max": 17.509999999999998
+        },
+        "humidity": {
+            "min": 43.35,
+            "max": 63.35
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

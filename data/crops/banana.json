@@ -1,0 +1,18 @@
+{
+    "name": "Banana",
+    "weather_preferences": {
+        "temperature": {
+            "min": 23.65,
+            "max": 33.65
+        },
+        "humidity": {
+            "min": 72.68,
+            "max": 92.68
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Muriate of Potash",
+        "Superphosphate"
+    ]
+}

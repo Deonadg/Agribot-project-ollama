@@ -1,0 +1,18 @@
+{
+    "name": "Barley",
+    "weather_preferences": {
+        "temperature": {
+            "min": 28.490000000000002,
+            "max": 38.49
+        },
+        "humidity": {
+            "min": 64.81,
+            "max": 84.81
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

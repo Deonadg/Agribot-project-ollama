@@ -1,0 +1,18 @@
+{
+    "name": "Peanut",
+    "weather_preferences": {
+        "temperature": {
+            "min": 31.79,
+            "max": 41.79
+        },
+        "humidity": {
+            "min": 18.1,
+            "max": 38.1
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

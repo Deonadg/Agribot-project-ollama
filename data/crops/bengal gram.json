@@ -1,0 +1,18 @@
+{
+    "name": "Bengal gram",
+    "weather_preferences": {
+        "temperature": {
+            "min": 20.55,
+            "max": 30.55
+        },
+        "humidity": {
+            "min": 31.6,
+            "max": 51.6
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

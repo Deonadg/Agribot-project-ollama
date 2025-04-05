@@ -1,0 +1,18 @@
+{
+    "name": "Sunflower",
+    "weather_preferences": {
+        "temperature": {
+            "min": 18.89,
+            "max": 28.89
+        },
+        "humidity": {
+            "min": 85.39,
+            "max": 100
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

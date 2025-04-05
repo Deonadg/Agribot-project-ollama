@@ -1,0 +1,18 @@
+{
+    "name": "Adzuki bean",
+    "weather_preferences": {
+        "temperature": {
+            "min": 25.24,
+            "max": 35.239999999999995
+        },
+        "humidity": {
+            "min": 68.08,
+            "max": 88.08
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

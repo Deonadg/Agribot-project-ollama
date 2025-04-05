@@ -1,0 +1,18 @@
+{
+    "name": "Bell pepper",
+    "weather_preferences": {
+        "temperature": {
+            "min": 13.969999999999999,
+            "max": 23.97
+        },
+        "humidity": {
+            "min": 72.65,
+            "max": 92.65
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

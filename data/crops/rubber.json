@@ -1,0 +1,18 @@
+{
+    "name": "Rubber",
+    "weather_preferences": {
+        "temperature": {
+            "min": 8.74,
+            "max": 18.740000000000002
+        },
+        "humidity": {
+            "min": 4.33,
+            "max": 24.33
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

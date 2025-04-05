@@ -1,0 +1,18 @@
+{
+    "name": "Indigo",
+    "weather_preferences": {
+        "temperature": {
+            "min": 31.46,
+            "max": 41.46
+        },
+        "humidity": {
+            "min": 11.68,
+            "max": 31.68
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

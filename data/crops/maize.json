@@ -1,0 +1,18 @@
+{
+    "name": "Maize",
+    "weather_preferences": {
+        "temperature": {
+            "min": 14.29,
+            "max": 24.29
+        },
+        "humidity": {
+            "min": 59.629999999999995,
+            "max": 79.63
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Olive",
+    "weather_preferences": {
+        "temperature": {
+            "min": 28.1,
+            "max": 38.1
+        },
+        "humidity": {
+            "min": 62.97,
+            "max": 82.97
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

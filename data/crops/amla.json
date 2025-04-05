@@ -1,0 +1,8 @@
+{
+    "name": "Amla (Indian Gooseberry)",
+    "weather_preferences": {
+        "temperature": { "min": 15, "max": 35 },
+        "humidity": { "min": 40, "max": 75 }
+    },
+    "fertilizers": ["Compost", "Superphosphate", "Muriate of Potash"]
+}

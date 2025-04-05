@@ -1,0 +1,18 @@
+{
+    "name": "Cassava",
+    "weather_preferences": {
+        "temperature": {
+            "min": 5.41,
+            "max": 15.41
+        },
+        "humidity": {
+            "min": 34.92,
+            "max": 54.92
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

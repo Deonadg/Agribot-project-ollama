@@ -1,0 +1,18 @@
+{
+    "name": "Cowpea",
+    "weather_preferences": {
+        "temperature": {
+            "min": 32.41,
+            "max": 42.41
+        },
+        "humidity": {
+            "min": 13.75,
+            "max": 33.75
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

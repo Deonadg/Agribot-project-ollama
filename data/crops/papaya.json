@@ -1,0 +1,18 @@
+{
+    "name": "Papaya",
+    "weather_preferences": {
+        "temperature": {
+            "min": 21.05,
+            "max": 31.05
+        },
+        "humidity": {
+            "min": 83.69,
+            "max": 100
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

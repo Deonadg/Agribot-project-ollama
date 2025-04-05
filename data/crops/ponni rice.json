@@ -1,0 +1,8 @@
+{
+    "name": "Ponni Rice",
+    "weather_preferences": {
+        "temperature": { "min": 20, "max": 35 },
+        "humidity": { "min": 60, "max": 85 }
+    },
+    "fertilizers": ["Urea", "Superphosphate", "Potassium Nitrate"]
+}

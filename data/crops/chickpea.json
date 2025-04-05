@@ -1,0 +1,18 @@
+{
+    "name": "Chickpea",
+    "weather_preferences": {
+        "temperature": {
+            "min": 13.309999999999999,
+            "max": 23.31
+        },
+        "humidity": {
+            "min": 5.359999999999999,
+            "max": 25.36
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Single Super Phosphate",
+        "Potassium Nitrate"
+    ]
+}

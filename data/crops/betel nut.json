@@ -1,0 +1,18 @@
+{
+    "name": "Betel nut",
+    "weather_preferences": {
+        "temperature": {
+            "min": 27.369999999999997,
+            "max": 37.37
+        },
+        "humidity": {
+            "min": 3.9299999999999997,
+            "max": 23.93
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

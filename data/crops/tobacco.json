@@ -1,0 +1,8 @@
+{
+    "name": "Tobacco",
+    "weather_preferences": {
+        "temperature": { "min": 18, "max": 32 },
+        "humidity": { "min": 50, "max": 85 }
+    },
+    "fertilizers": ["Nitrogen", "Phosphorus", "Potassium"]
+}

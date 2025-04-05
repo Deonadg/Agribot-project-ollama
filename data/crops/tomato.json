@@ -1,0 +1,18 @@
+{
+    "name": "Tomato",
+    "weather_preferences": {
+        "temperature": {
+            "min": 30.049999999999997,
+            "max": 40.05
+        },
+        "humidity": {
+            "min": 31.909999999999997,
+            "max": 51.91
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

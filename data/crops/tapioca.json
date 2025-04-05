@@ -1,0 +1,8 @@
+{
+    "name": "Tapioca",
+    "weather_preferences": {
+        "temperature": { "min": 22, "max": 34 },
+        "humidity": { "min": 50, "max": 80 }
+    },
+    "fertilizers": ["Urea", "Superphosphate", "Potassium Chloride"]
+}

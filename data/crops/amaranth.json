@@ -1,0 +1,18 @@
+{
+    "name": "Amaranth",
+    "weather_preferences": {
+        "temperature": {
+            "min": 6.75,
+            "max": 16.75
+        },
+        "humidity": {
+            "min": 86.94,
+            "max": 100
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

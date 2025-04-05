@@ -1,0 +1,18 @@
+{
+    "name": "Cranberry",
+    "weather_preferences": {
+        "temperature": {
+            "min": 12.280000000000001,
+            "max": 22.28
+        },
+        "humidity": {
+            "min": 71.49,
+            "max": 91.49
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

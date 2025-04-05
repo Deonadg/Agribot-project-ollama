@@ -1,0 +1,18 @@
+{
+    "name": "Wood apple",
+    "weather_preferences": {
+        "temperature": {
+            "min": 20.18,
+            "max": 30.18
+        },
+        "humidity": {
+            "min": 80.95,
+            "max": 100
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

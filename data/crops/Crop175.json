@@ -1,0 +1,8 @@
+{
+    "name": "Sesame (Til)",
+    "weather_preferences": {
+        "temperature": { "min": 25, "max": 35 },
+        "humidity": { "min": 40, "max": 70 }
+    },
+    "fertilizers": ["Farmyard Manure", "Superphosphate", "Potassium Chloride"]
+}

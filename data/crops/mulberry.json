@@ -1,0 +1,18 @@
+{
+    "name": "Mulberry",
+    "weather_preferences": {
+        "temperature": {
+            "min": 12.25,
+            "max": 22.25
+        },
+        "humidity": {
+            "min": 81.11,
+            "max": 100
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

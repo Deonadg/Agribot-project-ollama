@@ -1,0 +1,18 @@
+{
+    "name": "Saffron",
+    "weather_preferences": {
+        "temperature": {
+            "min": 23.08,
+            "max": 33.08
+        },
+        "humidity": {
+            "min": 64.02,
+            "max": 84.02
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

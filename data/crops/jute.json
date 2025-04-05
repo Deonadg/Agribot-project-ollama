@@ -1,0 +1,18 @@
+{
+    "name": "Jute",
+    "weather_preferences": {
+        "temperature": {
+            "min": 18.31,
+            "max": 28.31
+        },
+        "humidity": {
+            "min": 61.45,
+            "max": 81.45
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

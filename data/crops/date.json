@@ -1,0 +1,18 @@
+{
+    "name": "Date",
+    "weather_preferences": {
+        "temperature": {
+            "min": 20.99,
+            "max": 30.99
+        },
+        "humidity": {
+            "min": 49.96,
+            "max": 69.96000000000001
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

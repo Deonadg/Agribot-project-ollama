@@ -1,0 +1,18 @@
+{
+    "name": "Pear",
+    "weather_preferences": {
+        "temperature": {
+            "min": 26.94,
+            "max": 36.94
+        },
+        "humidity": {
+            "min": 57.129999999999995,
+            "max": 77.13
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

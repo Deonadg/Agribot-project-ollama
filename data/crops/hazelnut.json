@@ -1,0 +1,18 @@
+{
+    "name": "Hazelnut",
+    "weather_preferences": {
+        "temperature": {
+            "min": 13.899999999999999,
+            "max": 23.9
+        },
+        "humidity": {
+            "min": 20.5,
+            "max": 40.5
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

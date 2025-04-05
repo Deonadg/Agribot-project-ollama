@@ -1,0 +1,18 @@
+{
+    "name": "Orange",
+    "weather_preferences": {
+        "temperature": {
+            "min": 9.78,
+            "max": 19.78
+        },
+        "humidity": {
+            "min": 81.22,
+            "max": 100
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Palm",
+    "weather_preferences": {
+        "temperature": {
+            "min": 8.96,
+            "max": 18.96
+        },
+        "humidity": {
+            "min": 50.13,
+            "max": 70.13
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}

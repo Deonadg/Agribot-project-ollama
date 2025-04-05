@@ -1,0 +1,18 @@
+{
+    "name": "Soybean",
+    "weather_preferences": {
+        "temperature": {
+            "min": 34.35,
+            "max": 44.35
+        },
+        "humidity": {
+            "min": 1.9499999999999993,
+            "max": 21.95
+        }
+    },
+    "fertilizers": [
+        "Urea",
+        "Diammonium Phosphate",
+        "Potassium Chloride"
+    ]
+}
