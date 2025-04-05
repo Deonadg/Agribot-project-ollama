@@ -1,0 +1,40 @@
+RUN IN ANACONDA ENVIRONMENT
+
+# Stop any existing Ollama processes to free up the port
+$ollamaProcess = Get-Process | Where-Object { $_.Name -eq "ollama" }
+if ($ollamaProcess) {
+    Write-Host "Stopping existing Ollama process..."
+    Stop-Process -Name "ollama" -Force
+    Start-Sleep -Seconds 2
+}
+
+# Set environment variables for Ollama and Python
+$env:OLLAMA_HOST = "127.0.0.1:5051"  # Use a less common port to avoid conflicts
+$env:PYTHONPATH = "C:\Users\jobin\agrobot"
+Write-Host "Environment variables set: OLLAMA_HOST=$env:OLLAMA_HOST, PYTHONPATH=$env:PYTHONPATH"
+
+# Clear the weather data cache
+Remove-Item -Path "data/weather_data.json" -Force -ErrorAction SilentlyContinue
+Write-Host "Weather data cleared."
+
+# Start the Ollama server on the specified port
+Write-Host "Starting Ollama server on port 5051..."
+Start-Process powershell -ArgumentList "ollama serve" -NoNewWindow
+
+# Wait until the Ollama server is accessible
+$maxAttempts = 10
+$attempt = 0
+while ($attempt -lt $maxAttempts) {
+    try {
+        $response = Invoke-WebRequest -Uri "http://127.0.0.1:5051" -TimeoutSec 5
+        Write-Host "Ollama server is accessible at 127.0.0.1:5051."
+        break
+    } catch {
+        Write-Host "Waiting for Ollama to start on port 5051... ($attempt/$maxAttempts)"
+        Start-Sleep -Seconds 2
+        $attempt++
+    }
+}
+
+
+RUN IN POWERSHELL- PYTHON APP.PY
